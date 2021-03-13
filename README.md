@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Simple Recipe application with custom recipe uploads.
